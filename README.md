@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rapidox-00
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning CSS
-- 📫 How to reach me ig- @3.05amndt
+- 📫 How to reach me ig- @ndt_x11
 
 <!---
 rapidox-00/rapidox-00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
